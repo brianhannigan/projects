@@ -14,3 +14,6 @@ C:\Users\brian\Google Drive\Learning\Programming\visual studio 2015\Projects\Wpf
 C:\Users\brian\Google Drive\Learning\Programming\visual studio 2015\Projects\WpfTester\WpfTester\obj\Debug\WpfTester.pdb
 C:\Users\brian\Google Drive\Learning\Programming\visual studio 2015\Projects\WpfTester\WpfTester\bin\Debug\TreeviewTester.exe
 C:\Users\brian\Google Drive\Learning\Programming\visual studio 2015\Projects\WpfTester\WpfTester\bin\Debug\TreeviewTester.pdb
+C:\Users\brian\projects\projects\WpfTester\WpfTester\bin\Debug\WpfTester.exe.config
+C:\Users\brian\projects\projects\WpfTester\WpfTester\obj\Debug\WpfTester.exe
+C:\Users\brian\projects\projects\WpfTester\WpfTester\obj\Debug\WpfTester.pdb
